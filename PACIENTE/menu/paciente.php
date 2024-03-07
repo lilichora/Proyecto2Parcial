@@ -52,7 +52,8 @@
                                         <!-- <li><a class="active" href="../../index.html">home</a></li> -->
                                         <!-- <li><a href="../../consultas/consultas.php">Consultas</a></li> -->
                                         <!-- <li><a href="../../medico/medico.php">Medicos</a></li> -->
-                                        <li><a href="../pacientes/paciente.php">Pacientes</a></li>
+                                        <!-- <li><a href="../pacientes/paciente.php">Pacientes</a></li>
+                                        <li><a href="../consultas/consultas.php">Citas</a></li> -->
                                         <!-- <li><a href="../../usuarios/usuarios.php">Usuarios</a></li>
                                         <li><a href="../../roles/roles.php">Roles</a></li>
                                         <li><a href="../../recetas/receta.php">Recetas</a></li> -->

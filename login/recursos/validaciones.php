@@ -59,12 +59,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         header("Location: ../../MEDICO/menu/medico.php");
                         break;
                     case 3: // Paciente
-                        header("Location: ../../PACIENTE/menu/paciente.php");
+                        header("Location: inf_Paciente.php");
                         break;
                     default:
                         break;
                 }
-
                 exit();
             } else {
                 echo '<div class="alert alert-danger" role="alert">Error al obtener el rol del usuario.</div>';
